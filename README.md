@@ -1,5 +1,6 @@
 To run the project using command line : npm i and npm run dev
 
+Here is the deployment link of project : https://startwarweb.netlify.app/
 
 # React + TypeScript + Vite
 
